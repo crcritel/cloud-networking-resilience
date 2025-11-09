@@ -1,5 +1,3 @@
-3. Paste this sample content:
-
 ```json
 {
   "Comment": "Simple Route53 Failover Policy Example",
