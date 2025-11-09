@@ -1,7 +1,7 @@
 # Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures
 
 Supporting repository for the Apress title  
-**_Cloud Networking and Resilience_ (Apress, 2026)**  
+**_Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures_ (Apress, 2026)**  
 by **Cristian Critelli**
 
 ---
