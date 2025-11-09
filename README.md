@@ -31,7 +31,6 @@ cloud-networking-resilience/
 ## 🖼️ Images & Diagrams
 Each figure referenced in the book is stored in the `/images/` folder, each under their chapters.
 
-Example reference in Markdown:
 markdown
 ![Figure 6.14 – Containment and Recovery in Active-Active Systems](images/chapter-6/Fig.6.14.png)
 
