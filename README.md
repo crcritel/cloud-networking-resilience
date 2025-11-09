@@ -12,7 +12,7 @@ It is organized to mirror the structure of the chapters, focusing on practical i
 
 ---
 
-### Structure
+### 🗂️ Structure
 cloud-networking-resilience/
 ├── chapters/      → Markdown notes and excerpts per chapter
 ├── code/          → Configurations, JSON templates, scripts
