@@ -84,7 +84,7 @@ cloud-networking-resilience/
 
 ---
 
-## 🖼️ Chapter Image Packs
+<h2 id="chapter-image-packs">🖼️ Chapter Image Packs</h2>
 
 All images are also provided as ZIPs.  
 Click to download, or browse to `/images/` and right-click → **Save link as…**.
@@ -102,7 +102,7 @@ Click to download, or browse to `/images/` and right-click → **Save link as…
 
 > If your browser tries to open the ZIP, right-click the link and choose **Save link as…**.
 
-## 💾 Downloadable Chapter Diagram Packs
+<h2 id="downloadable-chapter-diagram-packs">💾 Downloadable Chapter Diagram Packs</h2>
 
 All architectural diagrams are provided as ZIPs (each contains the chapter’s .drawio sources).  
 Click to download, or browse to `/architectural-diagrams/` and right-click → **Save link as…**.
