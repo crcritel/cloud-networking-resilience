@@ -9,7 +9,7 @@ by **Cristian Critelli**
 ## 📘 About This Repository
 This repository accompanies the Apress book:
 
-**_Cloud Networking and Resilience_ (Apress, 2026)**  
+**_Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures_ (Apress, 2026)**  
 by **Cristian Critelli**  
 ISBN: _to be announced_  
 Published by **Apress Media, LLC**, New York, NY  
