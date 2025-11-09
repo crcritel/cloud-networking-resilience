@@ -48,13 +48,13 @@ All images are also provided as ZIPs.
 Click to download, or browse to `/images/` and right-click → **Save link as…**.
 
 | Chapter | Download |
-|:--------|:----------|
-| **Chapter 1–2–3** | [📦 chapter-1-2-3-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-1-2-3/chapter-1-2-3-images.zip) |
-| **Chapter 5** | [📦 chapter-5-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-5/chapter-5-images.zip) |
-| **Chapter 6** | [📦 chapter-6-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-6/chapter-6-images.zip) |
-| **Chapter 7** | [📦 chapter-7-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-7/chapter-7-images.zip) |
-| **Chapter 8** | [📦 chapter-8-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-8/chapter-8-images.zip) |
-| **Chapter 9** | [📦 chapter-9-images.zip](https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/images/chapter-9/chapter-9-images.zip) |
+|:--|:--|
+| **Chapter 1–2–3** | [📦 chapter-1-2-3-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-1-2-3/chapter-1-2-3-images.zip) |
+| **Chapter 5** | [📦 chapter-5-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-5/chapter-5-images.zip) |
+| **Chapter 6** | [📦 chapter-6-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-6/chapter-6-images.zip) |
+| **Chapter 7** | [📦 chapter-7-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-7/chapter-7-images.zip) |
+| **Chapter 8** | [📦 chapter-8-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-8/chapter-8-images.zip) |
+| **Chapter 9** | [📦 chapter-9-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-9/chapter-9-images.zip) |
 
 > If your browser tries to open the ZIP, right-click the link and choose **Save link as…**.
 
