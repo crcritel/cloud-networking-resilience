@@ -36,9 +36,9 @@ The book spans **nine chapters**, grouped across three major sections:
 ### 🧩 Companion Material
 
 - **Draw.io Diagrams:** Editable architectural diagrams used throughout the book  
-  → [📂 Chapter Diagram ZIPs](#-downloadable-chapter-diagram-packs)
+  → [📂 Chapter Diagram ZIPs](#downloadable-chapter-diagram-packs)
 - **Image Packs:** PNG exports of every figure  
-  → [🖼️ Chapter Image ZIPs](#-chapter-image-packs)
+  → [🖼️ Chapter Image ZIPs](#chapter-image-packs)
 - **Code Samples:** Route 53 policies, BGP configurations, and automation examples (to be released gradually)
 
 ---
