@@ -1,4 +1,4 @@
-# Cloud Networking and Resilience
+# Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures
 
 Supporting repository for the Apress title  
 **_Cloud Networking and Resilience_ (Apress, 2026)**  
@@ -7,8 +7,55 @@ by **Cristian Critelli**
 ---
 
 ## 📘 About This Repository
-This repository contains supporting examples, configurations, and diagrams referenced throughout the book *Cloud Networking and Resilience*.  
+This repository accompanies the Apress book:
+
+**_Cloud Networking and Resilience_ (Apress, 2026)**  
+by **Cristian Critelli**  
+ISBN: _to be announced_  
+Published by **Apress Media, LLC**, New York, NY  
+[www.apress.com](https://www.apress.com)
+
+This repository also contains supporting examples, configurations, and diagrams referenced throughout the book *Cloud Networking and Resilience*.  
 It is organized to mirror the structure of the chapters, focusing on practical implementation of cloud networking and resilience patterns across AWS and hybrid environments.
+
+---
+
+### 🧭 Overview
+
+This repository serves as the official companion resource for the book *Cloud Networking and Resilience*, providing all the supporting materials referenced throughout its chapters.  
+It is organized to mirror the book’s structure and includes practical assets that allow readers, architects, and engineers to reproduce and extend the concepts demonstrated in the text.
+
+Each chapter explores how modern cloud architectures can be designed, operated, and tested for **resilience**, **availability**, and **fault tolerance** — with a focus on AWS as the reference implementation.
+
+---
+
+### 📗 About the Book
+
+*Cloud Networking and Resilience* is a deep technical guide to designing and operating reliable cloud network architectures at scale.  
+It bridges foundational networking principles with modern cloud-native constructs — from **DNS resilience** and **BGP engineering** to **multi-region failover**, **automation**, and **chaos testing**.
+
+The book spans **nine chapters**, grouped across three major sections:
+
+1. **Foundations of Cloud Resilience** – Concepts, definitions, and network fundamentals (Ch. 1–3)  
+2. **Designing Resilient Network Architectures** – Techniques and architectures across layers (Ch. 4–7)  
+3. **Automating and Future-Proofing Resilience** – Observability, chaos, AI-driven fault detection, and the future of cloud networking (Ch. 8–9)
+
+---
+
+### 🧩 Companion Material
+
+- **Draw.io Diagrams:** Editable architectural diagrams used throughout the book  
+  → [📂 Chapter Diagram ZIPs](#-downloadable-chapter-diagram-packs)
+- **Image Packs:** PNG exports of every figure  
+  → [🖼️ Chapter Image ZIPs](#-chapter-image-packs)
+- **Code Samples:** Route 53 policies, BGP configurations, and automation examples (to be released gradually)
+
+---
+
+### 💬 Author’s Note
+
+This project is dedicated to **Ade**, whose memory inspired the spirit of resilience that defines this work.  
+The repository will continue to evolve as new chapters, updates, and resources are released, ensuring that the book’s examples remain current with the latest advancements in cloud networking and AWS services.
 
 ---
 
@@ -77,6 +124,14 @@ Click to download, or browse to `/architectural-diagrams/` and right-click → *
 
 > If your browser tries to open the ZIP, right-click the link and choose **Save link as…**.
 
+---
+
+📚 **Citation**
+
+If you reference or reuse materials from this repository, please credit:
+
+> *Critelli, Cristian.* “Cloud Networking and Resilience.” Apress Media, LLC, 2026.  
+> Companion repository available at [github.com/crcritel/cloud-networking-resilience](https://github.com/crcritel/cloud-networking-resilience)
 
 Copyright © 2026 Cristian Critelli. All rights reserved.  
 This repository is intended as a companion for the book *Cloud Networking and Resilience* (Apress 2026).  
