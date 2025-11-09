@@ -10,6 +10,8 @@ by **Cristian Critelli**
 This repository contains supporting examples, configurations, and diagrams referenced throughout the book *Cloud Networking and Resilience*.  
 It is organized to mirror the structure of the chapters, focusing on practical implementation of cloud networking and resilience patterns across AWS and hybrid environments.
 
+---
+
 ### Structure
 cloud-networking-resilience/
 ├── chapters/      → Markdown notes and excerpts per chapter
