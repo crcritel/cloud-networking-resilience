@@ -43,7 +43,7 @@ cloud-networking-resilience/
 
 <p align="center">
   <em>Figure 6.14 – Containment and Recovery in Active-Active Systems</em><br/>
-  <a href="https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-6/Fig.6.14.containment%26recovery-a-a.drawio">📥 Download Draw.io source</a>
+  <a href="https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-6/Fig.6.14.containment&recovery-a-a.drawio">📥 Download Draw.io source</a>
 </p>
 
 Copyright © 2025 Cristian Critelli. All rights reserved.
