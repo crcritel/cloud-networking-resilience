@@ -42,22 +42,22 @@ cloud-networking-resilience/
 
 ---
 
-## 💾 Downloadable Chapter Diagram Packs (RAW links)
+## 💾 Downloadable Chapter Diagram Packs
 
-All architectural diagrams are provided as ZIPs of the Draw.io sources. Click to download directly.
+All architectural diagrams are provided as ZIPs (each contains the chapter’s .drawio sources).  
+Click to download, or browse to `/architectural-diagrams/` and right-click → **Save link as…**.
 
-| Chapter | Description | Download (RAW) |
-|:--|:--|:--|
-| **Ch. 1–2–3** | Foundations of cloud networking & resilience | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-1-2-3/chapter-1-2-3-draw.io.zip |
-| **Ch. 4** | Resilient DNS architectures & techniques | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-4/chapter-4-draw.io.zip |
-| **Ch. 5** | Resilience across the OSI model | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-5/chapter-5-draw.io.zip |
-| **Ch. 6** | Cell-based architectures | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-6/chapter-6-draw.io.zip |
-| **Ch. 7** | Traffic engineering | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-7/chapter-7-draw.io.zip |
-| **Ch. 8** | Automation & monitoring | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-8/chapter-8-draw.io.zip |
-| **Ch. 9** | Future directions | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-9/chapter-9-draw.io.zip |
+| Chapter | Download |
+|:--|:--|
+| **Ch. 1–2–3** | [📦 chapter-1-2-3-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-1-2-3/chapter-1-2-3-draw.io.zip) |
+| **Ch. 4** | [📦 chapter-4-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-4/chapter-4-draw.io.zip) |
+| **Ch. 5** | [📦 chapter-5-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-5/chapter-5-draw.io.zip) |
+| **Ch. 6** | [📦 chapter-6-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-6/chapter-6-draw.io.zip) |
+| **Ch. 7** | [📦 chapter-7-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-7/chapter-7-draw.io.zip) |
+| **Ch. 8** | [📦 chapter-8-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-8/chapter-8-draw.io.zip) |
+| **Ch. 9** | [📦 chapter-9-draw.io.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-9/chapter-9-draw.io.zip) |
 
-> If a link opens as text, **right-click → Save link as…** (it will save as a `.zip`).  
-> If a link 404s, double-check the exact path/case in the repo and that the file is in the `main` branch.
+> If your browser tries to open the ZIP, right-click the link and choose **Save link as…**.
 
 
 Copyright © 2026 Cristian Critelli. All rights reserved.  
