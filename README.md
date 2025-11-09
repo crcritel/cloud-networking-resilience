@@ -33,7 +33,7 @@ Each figure referenced in the book is stored in the `/images/` folder, each unde
 
 Example reference in Markdown:
 ```markdown
-![Figure 6.14 – Containment and Recovery in Active-Active Systems](images/Fig6_14.png)
+![Figure 6.14 – Containment and Recovery in Active-Active Systems](images/chapter-6/Fig.6.14.png)
 
 Copyright © 2025 Cristian Critelli. All rights reserved.
 This repository is intended as a companion for the book Cloud Networking and Resilience (Apress 2026).
