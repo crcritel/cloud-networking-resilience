@@ -1,22 +1,13 @@
 # Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures
 
-Supporting repository for the Apress title  
-**_Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures_ (Apress, 2026)**  
-by **Cristian Critelli**
-
----
-
 ## 📘 About This Repository
 This repository accompanies the Apress book:
 
-**_Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures_ (Apress, 2026)**  
-by **Cristian Critelli**  
-ISBN: _to be announced_  
+- **_Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures_**
+- **(Apress, 2026) by Cristian Critelli**  
+- **ISBN: _to be announced_**  
 Published by **Apress Media, LLC**, New York, NY  
 [www.apress.com](https://www.apress.com)
-
-This repository also contains supporting examples, configurations, and diagrams referenced throughout the book *Cloud Networking and Resilience*.  
-It is organized to mirror the structure of the chapters, focusing on practical implementation of cloud networking and resilience patterns across AWS and hybrid environments.
 
 ---
 
@@ -25,7 +16,7 @@ It is organized to mirror the structure of the chapters, focusing on practical i
 This repository serves as the official companion resource for the book *Cloud Networking and Resilience*, providing all the supporting materials referenced throughout its chapters.  
 It is organized to mirror the book’s structure and includes practical assets that allow readers, architects, and engineers to reproduce and extend the concepts demonstrated in the text.
 
-Each chapter explores how modern cloud architectures can be designed, operated, and tested for **resilience**, **availability**, and **fault tolerance** — with a focus on AWS as the reference implementation.
+Each chapter explores how modern cloud network architectures can be designed, operated, and tested for **resilience**, **availability**, and **fault tolerance** — with a focus on AWS as the reference implementation.
 
 ---
 
@@ -54,8 +45,14 @@ The book spans **nine chapters**, grouped across three major sections:
 
 ### 💬 Author’s Note
 
-This project is dedicated to **Ade**, whose memory inspired the spirit of resilience that defines this work.  
-The repository will continue to evolve as new chapters, updates, and resources are released, ensuring that the book’s examples remain current with the latest advancements in cloud networking and AWS services.
+This project is dedicated to **Ade (2017 – 2022)** — my beloved Bengal cat, brother, son, dearest friend, and constant companion.  
+
+Through his quiet strength, unwavering loyalty, and gentle presence, he taught me what resilience truly means in life.  
+In my work, I design for resilience every day — and it felt only natural to honor him here, with his face on this book,  
+so that everyone who reads it sees the inspiration behind both my life’s work and this journey.  
+
+The repository will continue to evolve as new chapters, updates, and resources are released,  
+ensuring that the book’s examples remain current with the latest advancements in cloud networking and AWS services.
 
 ---
 
@@ -130,7 +127,7 @@ Click to download, or browse to `/architectural-diagrams/` and right-click → *
 
 If you reference or reuse materials from this repository, please credit:
 
-> *Critelli, Cristian.* “Cloud Networking and Resilience.” Apress Media, LLC, 2026.  
+> *Critelli, Cristian.* “Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures.” Apress Media, LLC, 2026.  
 > Companion repository available at [github.com/crcritel/cloud-networking-resilience](https://github.com/crcritel/cloud-networking-resilience)
 
 Copyright © 2026 Cristian Critelli. All rights reserved.  
