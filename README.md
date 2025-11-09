@@ -20,6 +20,19 @@ Each chapter explores how modern cloud network architectures can be designed, op
 
 ---
 
+### 💬 Author’s Note
+
+This project is dedicated to **Ade (2017 – 2022)** — my beloved Bengal cat, brother, son, dearest friend, and constant companion.  
+
+Through his quiet strength, unwavering loyalty, and gentle presence, he taught me what resilience truly means in life.  
+In my work, I design for resilience every day — and it felt only natural to honor him here, with his face on this book,  
+so that everyone who reads it sees the inspiration behind both my life’s work and this journey.  
+
+The repository will continue to evolve as new chapters, updates, and resources are released,  
+ensuring that the book’s examples remain current with the latest advancements in cloud networking and AWS services.
+
+---
+
 ### 📗 About the Book
 
 *Cloud Networking and Resilience* is a deep technical guide to designing and operating reliable cloud network architectures at scale.  
@@ -31,6 +44,20 @@ The book spans **nine chapters**, grouped across three major sections:
 2. **Designing Resilient Network Architectures** – Techniques and architectures across layers (Ch. 4–7)  
 3. **Automating and Future-Proofing Resilience** – Observability, chaos, AI-driven fault detection, and the future of cloud networking (Ch. 8–9)
 
+## 📚 Table of Contents
+
+| Chapter | Title |
+|:--|:--|
+| **Chapter 1** | Introduction to Cloud Networking and Resilience |
+| **Chapter 2** | Cloud Networking Fundamentals |
+| **Chapter 3** | DNS as a Pillar of Resilience |
+| **Chapter 4** | Resilient DNS Architectures and Techniques |
+| **Chapter 5** | Designing Resilience Across the OSI Model (with AWS Examples) |
+| **Chapter 6** | Building Network Isolation with Cell-Based Architectures, Availability Zones, and Regions |
+| **Chapter 7** | Traffic Engineering for Resilience and Performance |
+| **Chapter 8** | Resilience Automation and Monitoring Essentials |
+| **Chapter 9** | The Future of Cloud Resilience |
+
 ---
 
 ### 🧩 Companion Material
@@ -40,17 +67,6 @@ The book spans **nine chapters**, grouped across three major sections:
 - **Image Packs:** PNG exports of every figure  
   → [🖼️ Chapter Image ZIPs](#chapter-image-packs)
 - **Code Samples:** Route 53 policies, BGP configurations, and automation examples (to be released gradually)
-
-### 💬 Author’s Note
-
-This project is dedicated to **Ade (2017 – 2022)** — my beloved Bengal cat, brother, son, dearest friend, and constant companion.  
-
-Through his quiet strength, unwavering loyalty, and gentle presence, he taught me what resilience truly means in life.  
-In my work, I design for resilience every day — and it felt only natural to honor him here, with his face on this book,  
-so that everyone who reads it sees the inspiration behind both my life’s work and this journey.  
-
-The repository will continue to evolve as new chapters, updates, and resources are released,  
-ensuring that the book’s examples remain current with the latest advancements in cloud networking and AWS services.
 
 ---
 
