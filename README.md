@@ -41,13 +41,9 @@ cloud-networking-resilience/
   <img src="images/chapter-6/Fig.6.14.png" alt="Figure 6.14 – Containment and Recovery in Active-Active Systems" width="700"/>
 </p>
 
-<p align="center">
-  <em>Figure 6.14 – Containment and Recovery in Active-Active Systems</em><br/>
-  <a href="https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-6/Fig.6.14.containment%26recovery-a-a.drawio?raw=true" download="Fig.6.14.containment&recovery-a-a.drawio">
-    <img src="https://img.shields.io/badge/💾%20Save%20this%20diagram-Draw.io%20source-blue?style=for-the-badge" alt="Download Draw.io source"/>
-  </a><br/>
-  <em>(If your browser opens the XML, right-click → “Save Link As…” and it will download as a .drawio file.)</em>
-</p>
+[💾 Download Draw.io source](
+https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-6/Fig.6.14.containment%26recovery-a-a.drawio
+)
 
 ---
 
