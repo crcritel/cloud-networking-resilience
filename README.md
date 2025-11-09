@@ -13,12 +13,14 @@ It is organized to mirror the structure of the chapters, focusing on practical i
 ---
 
 ### 🗂️ Structure
+```
 cloud-networking-resilience/
 ├── chapters/      → Markdown notes and excerpts per chapter
 ├── code/          → Configurations, JSON templates, scripts
 ├── images/        → Architecture diagrams (PNG)
-├── architectural-diagrams/        → Architecture diagrams (draw.io)
+├── architectural-diagrams/ → Architecture diagrams (draw.io)
 └── docs/          → Additional documentation or datasets
+```
 
 ---
 
