@@ -33,18 +33,17 @@ cloud-networking-resilience/
 ---
 
 ## 🖼️ Images & Diagrams
-- **Each figure referenced in the book is stored in the `/images/` folder, each under their own chapters.**
-- **Each source file (draw.io) related to the figures in the book is stored in the `/architectural-diagrams/` folder, each under their own chapters.**
 
+- Each figure referenced in the book is stored in the `/images/` folder, each under their own chapters.  
+- Each source file (.drawio) related to the figures in the book is stored in the `/architectural-diagrams/` folder, each under their own chapters.
 
 <p align="center">
-  <img src="images/chapter-6/Fig6_14_Containment_Recovery_AA.png" alt="Figure 6.14 – Containment and Recovery in Active-Active Systems" width="600"/>
+  <img src="images/chapter-6/Fig.6.14.png" alt="Figure 6.14 – Containment and Recovery in Active-Active Systems" width="700"/>
 </p>
 
 <p align="center">
-  <em>Figure 6.14 – Containment and Recovery in Active-Active Systems</em>  
-  <br/>
-  📥 <a href="https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/architectural-diagrams/chapter-6/Fig6_14_Containment_Recovery_AA.drawio">Download Draw.io source</a>
+  <em>Figure 6.14 – Containment and Recovery in Active-Active Systems</em><br/>
+  <a href="https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-6/Fig.6.14.containment%26recovery-a-a.drawio">📥 Download Draw.io source</a>
 </p>
 
 Copyright © 2025 Cristian Critelli. All rights reserved.
