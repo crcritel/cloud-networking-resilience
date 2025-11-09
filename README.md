@@ -42,24 +42,22 @@ cloud-networking-resilience/
 
 ---
 
-## 💾 Downloadable Chapter Diagram Packs
+## 💾 Downloadable Chapter Diagram Packs (RAW links)
 
-All architectural diagrams created for the book *Cloud Networking and Resilience* are available as downloadable `.zip` archives, one per chapter.  
-Each archive contains all the Draw.io (`.drawio`) source files used to create the figures throughout the book.
+All architectural diagrams are provided as ZIPs of the Draw.io sources. Click to download directly.
 
-You can download them directly using the links below, or navigate to the `/architectural-diagrams/` folder in this repository and **right-click → “Save link as…”** to download manually.
+| Chapter | Description | Download (RAW) |
+|:--|:--|:--|
+| **Ch. 1–2–3** | Foundations of cloud networking & resilience | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-1-2-3/chapter-1-2-3-draw.io.zip |
+| **Ch. 4** | Resilient DNS architectures & techniques | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-4/chapter-4-draw.io.zip |
+| **Ch. 5** | Resilience across the OSI model | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-5/chapter-5-draw.io.zip |
+| **Ch. 6** | Cell-based architectures | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-6/chapter-6-draw.io.zip |
+| **Ch. 7** | Traffic engineering | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-7/chapter-7-draw.io.zip |
+| **Ch. 8** | Automation & monitoring | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-8/chapter-8-draw.io.zip |
+| **Ch. 9** | Future directions | https://raw.githubusercontent.com/crcritel/cloud-networking-resilience/main/architectural-diagrams/chapter-9/chapter-9-draw.io.zip |
 
-| Chapter | Description | Download Link |
-|:--------|:-------------|:--------------|
-| **Ch. 1–2–3** | Foundations of Cloud Networking and Resilience | [📦 Download ZIP]https://github.com/crcritel/cloud-networking-resilience/raw/main/architectural-diagrams/chapter-1-2-3/chapter-1-2-3-draw.io.zip) |
-| **Ch. 4** | Resilient DNS Architectures and Techniques | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-4/chapter-4-draw.io.zip?raw=true) |
-| **Ch. 5** | Designing Resilience Across the OSI Model | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-5/chapter-5-draw.io.zip?raw=true) |
-| **Ch. 6** | Building Network Isolation with Cell-Based Architectures | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-6/chapter-6-draw.io.zip?raw=true) |
-| **Ch. 7** | Traffic Engineering for Resilience and Performance | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-7/chapter-7-draw.io.zip?raw=true) |
-| **Ch. 8** | Resilience Automation and Monitoring Essentials | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-8/chapter-8-draw.io.zip?raw=true) |
-| **Ch. 9** | Future Directions in Cloud Resilience | [📦 Download ZIP](https://github.com/crcritel/cloud-networking-resilience/blob/main/architectural-diagrams/chapter-9/chapter-9-draw.io.zip?raw=true) |
-
-> 💡 **Tip:** If your browser opens the ZIP file as text instead of downloading, right-click the link above and select **“Save link as…”** to save it correctly.
+> If a link opens as text, **right-click → Save link as…** (it will save as a `.zip`).  
+> If a link 404s, double-check the exact path/case in the repo and that the file is in the `main` branch.
 
 
 Copyright © 2026 Cristian Critelli. All rights reserved.  
