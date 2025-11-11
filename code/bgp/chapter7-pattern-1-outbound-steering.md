@@ -10,14 +10,6 @@
 
 ---
 
-### ⚙️ Configuration Disclaimer
-
-> **Note:** The configuration below is **illustrative only (non-production)**.  
-> Exact commands, syslog patterns, timers, and neighbor policy hooks may vary depending on your router platform and software version.  
-> Always validate in a **lab environment** and follow your organization’s **change control procedures** before deployment.
-
----
-
 ## 🧩 Complete Example Configuration
 
 ```conf
@@ -90,3 +82,16 @@ end
 | **Degraded** | > 100 ms (3×) | `DX_DEGRADED_EGRESS` | Backup (Secondary DX or VPN) | Local-pref reduced |
 | **Recovered** | < 100 ms (3×) | `DX_PRIMARY_EGRESS` | Direct Connect restored | Route-map reverted |
 | **Hard Failure** | Link Down | — | Alternate path | BFD triggers fast failover |
+
+## ⚠️ Disclaimer
+
+This configuration is provided **for educational and illustrative purposes only**.  
+It is a simplified reference example and omits elements essential for production use —  
+including **authentication, route filtering, prefix limits, and MD5 session protection**.
+
+Before implementing:
+- Replace all **IP addresses, ASNs, and communities** with your environment’s actual values.  
+- Test configurations in a **lab or staging environment** first.  
+
+> Neither the author nor Apress Media LLC assumes any responsibility for misconfiguration,  
+> downtime, or data loss resulting from direct use of this example.
