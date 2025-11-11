@@ -1,9 +1,9 @@
 # Pattern 1 — Outbound (Egress) Steering by Measured Performance
 
-Outbound is ours to control.  
-We prefer the lower-latency **Direct Connect** when healthy and automatically fall back (or de-prefer) when latency increases persistently.  
+- **Outbound is ours to control.**
+- **We prefer the lower-latency **Direct Connect** when healthy and automatically fall back (or de-prefer) when latency increases persistently.**
 
-This pattern demonstrates how to **measure**, **react**, and **adapt BGP attributes** to maintain optimal egress routing performance — using IP SLA, EEM, and dynamic route-map switching.
+- **This pattern demonstrates how to **measure**, **react**, and **adapt BGP attributes** to maintain optimal egress routing performance — using IP SLA, EEM, and dynamic route-map switching.**
 
 ---
 
