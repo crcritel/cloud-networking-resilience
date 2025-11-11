@@ -76,3 +76,12 @@ event manager applet RTT_RECOVERED
 router bgp 65000
  neighbor 169.254.100.1 bfd
 !
+
+## ⚙️ Summary of Behavior
+
+| Condition | RTT State | Active Route Map | Preferred Path | Action |
+|:--|:--|:--|:--|:--|
+| **Normal** | < 100 ms | `DX_PRIMARY_EGRESS` | Direct Connect (Primary) | Normal operation |
+| **Degraded** | > 100 ms (3×) | `DX_DEGRADED_EGRESS` | Backup (Secondary DX or VPN) | Local-pref reduced |
+| **Recovered** | < 100 ms (3×) | `DX_PRIMARY_EGRESS` | Direct Connect restored | Route-map reverted |
+| **Hard Failure** | Link Down | — | Alternate path | BFD triggers fast failover |
