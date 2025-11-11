@@ -1,3 +1,6 @@
+**Author:** Cristian Critelli  
+**Context:** Chapter 7 – Traffic Engineering for Resilience and Performance  
+
 # Pattern 1 — Outbound (Egress) Steering by Measured Performance
 
 - **Outbound is ours to control.**
