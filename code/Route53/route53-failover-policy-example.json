@@ -1,0 +1,16 @@
+{
+  "Comment": "Simple Route53 Failover Policy Example",
+  "Changes": [
+    {
+      "Action": "UPSERT",
+      "ResourceRecordSet": {
+        "Name": "app.example.com",
+        "Type": "A",
+        "SetIdentifier": "primary-region",
+        "Failover": "PRIMARY",
+        "TTL": 60,
+        "ResourceRecords": [{ "Value": "203.0.113.10" }]
+      }
+    }
+  ]
+}
