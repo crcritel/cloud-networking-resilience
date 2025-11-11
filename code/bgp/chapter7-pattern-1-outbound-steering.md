@@ -77,7 +77,7 @@ router bgp 65000
  neighbor 169.254.100.1 bfd
 !
 end
-'''
+```
 
 ## ⚙️ Summary of Behavior
 
