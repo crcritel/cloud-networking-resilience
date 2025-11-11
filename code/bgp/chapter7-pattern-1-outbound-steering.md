@@ -1,7 +1,7 @@
+# Pattern 1 — Outbound (Egress) Steering by Measured Performance
+
 **Author:** Cristian Critelli  
 **Context:** Chapter 7 – Traffic Engineering for Resilience and Performance  
-
-# Pattern 1 — Outbound (Egress) Steering by Measured Performance
 
 - **Outbound is ours to control.**
 - **We prefer the lower-latency **Direct Connect** when healthy and automatically fall back (or de-prefer) when latency increases persistently.**
