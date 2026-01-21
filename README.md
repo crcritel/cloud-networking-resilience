@@ -48,15 +48,15 @@ The book spans **nine chapters**, grouped across three major sections:
 
 | Chapter | Title |
 |:--|:--|
-| **Chapter 1** | Introduction to Cloud Networking and Resilience |
-| **Chapter 2** | Cloud Networking Fundamentals |
-| **Chapter 3** | DNS as a Pillar of Resilience |
+| **Chapter 1** | What is Resilience in the Cloud era|
+| **Chapter 2** | Fundamentals of Cloud Networking and Network Topologies |
+| **Chapter 3** | DNS Fundamentals |
 | **Chapter 4** | Resilient DNS Architectures and Techniques |
-| **Chapter 5** | Designing Resilience Across the OSI Model (with AWS Examples) |
-| **Chapter 6** | Building Network Isolation with Cell-Based Architectures, Availability Zones, and Regions |
-| **Chapter 7** | Traffic Engineering for Resilience and Performance |
-| **Chapter 8** | Resilience Automation and Monitoring Essentials |
-| **Chapter 9** | The Future of Cloud Resilience |
+| **Chapter 5** | Implementing Resilience Throughout the OSI Model with AWS Examples |
+| **Chapter 6** | Building Network Isolation with Cell-Based Architectures, Availability Zones and Regions |
+| **Chapter 7** | Traffic Engineering for Cloud Resilience and Performance |
+| **Chapter 8** | Operational Resilience and Disaster Recovery |
+| **Chapter 9** | The Next Decade of Cloud Resilience |
 
 ---
 
