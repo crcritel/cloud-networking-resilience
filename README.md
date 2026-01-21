@@ -110,7 +110,7 @@ Click to download, or browse to `/images/` and right-click → **Save link as…
 | **Chapter 1** | [📦 chapter-1-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-1/chapter-1-images.zip) |
 | **Chapter 2** | [📦 chapter-2-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-2/chapter-2-images.zip) |
 | **Chapter 3** | [📦 chapter-3-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-3/chapter-3-images.zip) |
-| **Chapter 4** | [📦 chapter-3-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-3/chapter-4-images.zip) |
+| **Chapter 4** | [📦 chapter-4-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-4/chapter-4-images.zip) |
 | **Chapter 5** | [📦 chapter-5-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-5/chapter-5-images.zip) |
 | **Chapter 6** | [📦 chapter-6-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-6/chapter-6-images.zip) |
 | **Chapter 7** | [📦 chapter-7-images.zip](https://github.com/crcritel/cloud-networking-resilience/raw/main/images/chapter-7/chapter-7-images.zip) |
