@@ -42,6 +42,9 @@ ensuring that the book’s examples remain current with the latest advancements 
 *Cloud Networking and Resilience* is a deep technical guide to designing and operating reliable cloud network architectures at scale.  
 It bridges foundational networking principles with modern cloud-native constructs — from **DNS resilience** and **BGP engineering** to **multi-region failover**, **automation**, and **chaos testing**.
 
+**📖 Buy or view the book:**  
+- [SpringerLink / Apress product page](https://link.springer.com/book/9798868824357)
+
 The book spans **nine chapters**, grouped across three major sections:
 
 1. **Foundations of Cloud Resilience** – Concepts, definitions, and network fundamentals (Ch. 1–3)  
@@ -150,6 +153,9 @@ If you reference or reuse materials from this repository, please credit:
 > *Critelli, Cristian.*  
 > *Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures.*  
 > Apress Media, LLC, 2026.
+>
+> Book page:  
+> https://link.springer.com/book/9798868824357
 >
 > Companion repository:  
 > https://github.com/crcritel/cloud-networking-resilience
