@@ -142,9 +142,16 @@ Click to download, or browse to `/architectural-diagrams/` and right-click → *
 
 If you reference or reuse materials from this repository, please credit:
 
-> *Critelli, Cristian.* “Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures.” Apress Media, LLC, 2026.  
-> Companion repository available at [github.com/crcritel/cloud-networking-resilience](https://github.com/crcritel/cloud-networking-resilience)
-> Apress repository available at [https://github.com/Apress](https://github.com/Apress)
+>
+> *Critelli, Cristian.*  
+> *Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures.*  
+> Apress Media, LLC, 2026.
+>
+> Companion repository:  
+> https://github.com/crcritel/cloud-networking-resilience
+>
+> Apress repository:  
+> https://github.com/Apress
 
 Copyright © 2026 Cristian Critelli. All rights reserved.  
 This repository is intended as a companion for the book *Cloud Networking and Resilience* (Apress 2026).  
