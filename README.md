@@ -1,5 +1,9 @@
 # Cloud Networking and Resilience: Designing Scalable, Fault-Tolerant, and Highly-Available Cloud Network Architectures
 
+<p align="center">
+  <img src="images/cover/979-8-8688-2435-7-git.png" alt="Cloud Networking and Resilience Book Cover" width="350"/>
+</p>
+
 ## 📘 About This Repository
 This repository accompanies the Apress book:
 
