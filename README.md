@@ -49,7 +49,7 @@ The book spans **nine chapters**, grouped across three major sections:
 3. **Automating and Future-Proofing Resilience** – Observability, chaos, AI-driven fault detection, and the future of cloud networking (Ch. 8–9)
 
 **📖 Buy or view the book:**  
-- [SpringerLink / Apress product page](https://link.springer.com/book/9798868824357)
+- [SpringerLink / Apress product page]([https://link.springer.com/book/9798868824357](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftidd.ly%2F4lyuhUR&data=05%7C02%7C%7C075c2d87697742faa02708de8402028a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639093341339669548%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=n4FqP0JVpRfGgGJ7MJlkkRFS65QKGzr4uJChqQC88U0%3D&reserved=0))
 
 ## 📚 Table of Contents
 
